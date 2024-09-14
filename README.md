@@ -37,12 +37,3 @@ Regex: For advanced text formatting and validation.
 # Conclusion
 This project successfully cleaned and preprocessed the bookstore sales data, ensuring high data quality and consistency. The cleaned dataset is now ready for further analysis and can be used to derive meaningful insights about bookstore sales.
 
-pip install -r requirements.txt
-
-Run the Script:
-python data_cleaning.py
-
-Files in the Repository
-data_cleaning.py: The main script containing the data cleaning code.
-requirements.txt: A file listing all the dependencies required to run the project.
-README.md: This file, providing an overview and instructions for the project.
